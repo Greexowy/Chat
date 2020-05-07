@@ -1,0 +1,8 @@
+main: Poland.Greexowy.Chat.Main
+name: Chat
+author: Greexowy
+version: 1.8
+commands:
+  chat:
+    description: Your description
+    usage: /<command>
